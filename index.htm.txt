@@ -1,12 +1,32 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> Van Ulrich E. Valverde </title>
+		<title> Andrea Darjuan </title>
 	<meta keyword="author" value="Van Ulrich Valverde"/>	
 	<meta keyword="description" value="WEBDEVT Exercise #1" />
 	<meta charset="utf-8"/>
+
 </head>
 <body>
+
+<div class="container">
+	<h1 class="text-center"> Andrea Darjuan </h1>
+	<div class="col-lg-6>
+		<div class="well">
+			
+		</div>
+	</div>
+	<div class="col-lg-6">
+		<div class="well">
+			<h1 class="text-center">
+				Top 5 Favorite Movies
+			</h1>
+			
+		</div>
+	</div>
+</div>
+
+
 
 </body>
 
